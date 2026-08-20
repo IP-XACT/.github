@@ -1,6 +1,6 @@
 # Welcome to the IP-XACT open source community!
 
-The goal of this GitHub organization is to build and share free and open-source tools around [Accellera's IP-XACT standard](https://www.accellera.org/downloads/standards/ip-xact), following the latest version (IEEE 1685-2022).
+The goal of this GitHub organization is to build and share free and open-source tools around [Accellera's IP-XACT standard](https://www.accellera.org/downloads/standards/ip-xact), following the latest version (IEEE 1685-2022). [^1]
 
 ## XactFlow Application
 
