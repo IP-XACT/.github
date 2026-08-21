@@ -20,4 +20,8 @@ For the initial phase, XactFlow will focus on the following IP-XACT object types
 
 Support for additional IP-XACT object types (catalogs, generators, etc.) may follow once this core is solid.
 
+## License
+
+Unless otherwise noted, projects in this organization are released under the [GNU Lesser General Public License v3.0 (LGPL-3.0)](https://www.gnu.org/licenses/lgpl-3.0.html).
+
 [^1]: This IP-XACT GitHub group is not affiliated with Accellera.
